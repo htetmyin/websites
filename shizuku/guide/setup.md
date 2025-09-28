@@ -1,4 +1,4 @@
-# User manual
+#120fps User manual
 
 [[toc]]
 
